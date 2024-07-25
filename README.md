@@ -5,7 +5,7 @@ A library management system for the Snowdin "Librarby", featuring book tracking,
 ![image](https://github.com/user-attachments/assets/72eadc90-399b-4306-8950-8f5c7396f9f5) </br>
 <sub>yes we know its spelt wrong</sub>
 ### Contributors
-- Luka Dvali
+- dreadful :>
 - [@cyber-chalk](https://www.github.com/cyber-chalk)
 - Tom
 
